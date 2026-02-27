@@ -17,7 +17,7 @@ variables:
   - name: webAppName
     value: 'finweb-anand'                # <-- Update this Azure Web App target
   - name: MY_DEVOPS_PAT
-    value: '4ggahDtX3w7HwwTsUgWHdrchE1qG1AKnCXpmH3DGvrJ81EY5BFQbJQQJ99CBACAAAAAQgFVsAAASAZDOwbRW'
+    value: '8Y06UW8ouMDI2hNCYLbRNMyisEn62hyi5ycd1VHE0vz8NyCmcG6qJQQJ99CBACAAAAAQgFVsAAASAZDO4g8a'
 
 steps:
 - script: |
