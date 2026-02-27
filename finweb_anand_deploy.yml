@@ -16,9 +16,7 @@ variables:
     value: 'Training-Student-001-OC014'        # <-- Update this
   - name: webAppName
     value: 'finweb-anand'                # <-- Update this Azure Web App target
-  - name: MY_DEVOPS_PAT
-    value: '8Y06UW8ouMDI2hNCYLbRNMyisEn62hyi5ycd1VHE0vz8NyCmcG6qJQQJ99CBACAAAAAQgFVsAAASAZDO4g8a'
-
+    
 steps:
 - script: |
     echo "Installing Azure DevOps CLI extension..."
